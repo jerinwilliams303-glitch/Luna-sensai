@@ -1,0 +1,30 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+.env.local
+
+# Databases
+*.db
+*.sqlite
+
+# Secrets
+*.key
+secrets/
+token.txt
+
+# Datasets
+Dataset_*.csv
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
