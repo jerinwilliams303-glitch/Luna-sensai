@@ -75,7 +75,7 @@ Google Generative AI → AI Companion
 
 📦 Installation
 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/luna-sensai.git
+git clone https://github.com/jerinwilliams303-glitch/luna-sensai.git
 cd luna-sensai
 
 2. Create a virtual environment
@@ -142,3 +142,4 @@ Voice-based AI companion
 💖 Contributors
 
 Jerin Williams
+
